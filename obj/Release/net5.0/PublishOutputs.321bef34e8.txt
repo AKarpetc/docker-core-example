@@ -1,0 +1,11 @@
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\DockerTest.exe
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\appsettings.Development.json
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\appsettings.json
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\DockerTest.dll
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\DockerTest.deps.json
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\DockerTest.runtimeconfig.json
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\DockerTest.pdb
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OTUS\DockerTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
