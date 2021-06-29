@@ -1,0 +1,13 @@
+version: "3.7"
+services: 
+    core-test: 
+        image: kapecart/net-core-example-image:0.1
+        container_name: "net-core-example"
+        ports:
+            - "5000:5000"
+        depends_on: 
+            - core-test-db
+            
+    core-test-db: 
+        image: postgres
+        container_name: "net-core-example-db"
